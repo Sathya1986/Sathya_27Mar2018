@@ -16,6 +16,8 @@ public class ClassNew001 {
 		
 		driver.get("http://www.google.com");
 		
+		driver.close();
+		
 		
 	}
 
